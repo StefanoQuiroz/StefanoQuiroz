@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on some of your ideas
 
-📫 Reach me stefano.quiroz@gmail.com
+📫 Reach me stefano.quiroz93@gmail.com

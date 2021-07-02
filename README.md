@@ -19,6 +19,6 @@ Technologies that I use:
 ![image](https://user-images.githubusercontent.com/72056993/120913492-29c58200-c65d-11eb-8da6-8758d615e9af.png)
 ![image](https://user-images.githubusercontent.com/72056993/120913495-2fbb6300-c65d-11eb-842c-57ed8cf11398.png)
 
-https://github-readme-stats.vercel.app/api?username=StefanoQuiroz&show_icons=true&theme=tokyonight
+<img https://github-readme-stats.vercel.app/api?username=StefanoQuiroz&show_icons=true&theme=tokyonight />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoQuiroz&layout=compact&theme=tokyonight
+<img https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoQuiroz&layout=compact&theme=tokyonight />

@@ -1,8 +1,10 @@
 👋 Hi, I’m Stefano.
 
-👀 I’m interested in Software Developement
+👀 I’m interested in Software Developement and create cool interfaces
 
-🌱 I’m currently learning MERN Full-Stack Developement @CodingDojo
+🌱 I’m MERN Full-Stack Developer
+
+🌱 CodingDojo alumni
 
 💞️ I’m looking to collaborate on some of your ideas
 

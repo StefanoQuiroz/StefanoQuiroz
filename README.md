@@ -1,4 +1,4 @@
-👋 Hi, I’m Stefano.
+👋 Hi, I’m Stefano, fullstack semi senior Reat/Vue & nodejs.
 
 👀 I’m interested in Software Developement and create cool interfaces
 

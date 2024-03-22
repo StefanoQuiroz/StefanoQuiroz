@@ -1,8 +1,8 @@
-👋 Hi, I’m Stefano, fullstack senior Reat/Next/Vue & nodejs.
+👋 Hi, I’m Stefano, Fullstack Frontend Senior React/Next/Vue & nodejs.
 
 👀 I’m interested in Software Developement and create cool interfaces
 
-🌱 I’m MERN/MEVN Full-Stack Developer
+🌱 I’m MERN/MEVN GraphQL Full-Stack Developer
 
 💞️ I’m looking to collaborate on some of your ideas
 
